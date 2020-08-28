@@ -7,5 +7,6 @@ func main() {
 	b := 13
 
 	fmt.Println(a + b)
+	fmt.Println(a / b)
 	fmt.Println(a * b)
 }
